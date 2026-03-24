@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    align-content: center;
+    block-size: 100vb;
+}
+
+canvas{
+    display: block;
+    margin-inline: auto;
+}
